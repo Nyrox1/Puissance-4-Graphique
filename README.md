@@ -35,4 +35,5 @@ Le projet est structuré autour de plusieurs fonctions clés :
 ### Exécution
 Ouvrez votre terminal dans le dossier contenant le projet et lancez :
 ```bash
-python puissance_4.py
+python3 puissance_4.py
+```
